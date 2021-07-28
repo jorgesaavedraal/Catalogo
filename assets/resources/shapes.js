@@ -1,0 +1,1 @@
+window.shapes_tk52kn14ot = function() { return {};}
